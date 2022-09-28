@@ -2,42 +2,6 @@ Não esqueçam de avaliar o professor Eduardo Worrel, link abaixo:
 
 https://forms.gle/HVETc26n5cZSAzhy8
 
-lista de cadastro de profisionais,
-Lista para ver usuarios,
-Lista que aprove ou reprove profissionais,
-Analizar e ter no sistema um mecanismo que rejeite ou aprove 
-( feito por duas pessoas distintas) se der empate terá uma terceira pessoa envolvida.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Uma plataforma online (Site) que tenha um botão para o registro dos usuarios cadastrados, feito pelos mesmo,
 aonde quem terá acesso a esses dados são os avaliadores que vão ser dois,
@@ -60,4 +24,4 @@ Experiência profissional:
 Dados do profissional são cadastrados e inseridos no sistema onde será solicitado documentação comprobatória.
  Documentos como diplomas e certificados ou inscrições em órgãos de classe.
 Estas informações chegam para o sistema como dados enviados por certificação digital q trará validade jurídica
- a estas informações.
+a estas informações.
