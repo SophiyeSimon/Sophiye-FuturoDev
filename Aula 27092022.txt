@@ -1,0 +1,63 @@
+Não esqueçam de avaliar o professor Eduardo Worrel, link abaixo:
+
+https://forms.gle/HVETc26n5cZSAzhy8
+
+lista de cadastro de profisionais,
+Lista para ver usuarios,
+Lista que aprove ou reprove profissionais,
+Analizar e ter no sistema um mecanismo que rejeite ou aprove 
+( feito por duas pessoas distintas) se der empate terá uma terceira pessoa envolvida.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Uma plataforma online (Site) que tenha um botão para o registro dos usuarios cadastrados, feito pelos mesmo,
+aonde quem terá acesso a esses dados são os avaliadores que vão ser dois,
+ e que vai avaliar os pedidos de cadastro de usuário a usuário sendo que após sendo confirmado se o usuário foi
+aprovado ou reprovado emitir uma nota por email do usuário cadastrado informando o mesmo sobre seu resultado,
+após isso o usuário fica catalogado por 1 ano  e sendo reaberto a avaliação ao fim desse tempo.
+Um botão em uma aba de avaliadores aonde os mesmos teram acesso por meio de malotes aos dados de cada usuário,
+ requisitando um cadastro por sua vez, os avaliadores, 2 seram inseridos em cada pedido de cadastro de forma aleatória, 
+com base no horário de trabalho de cada avaliador.
+uma aba em lista dos aprovados com o nome de cada usuário aprovado e cadastrado, não inserindo os reprovados na analize.
+um botão no site para conferir o status do cadastro do usuário.
+Os dados que o usuário deverá informar seram os:
+nome:
+cpf:
+filiação:
+formação:
+certificado de conclusão:
+Registro em conselho de classe:    sim   ou  não
+Experiência profissional:
+Dados do profissional são cadastrados e inseridos no sistema onde será solicitado documentação comprobatória.
+ Documentos como diplomas e certificados ou inscrições em órgãos de classe.
+Estas informações chegam para o sistema como dados enviados por certificação digital q trará validade jurídica
+ a estas informações.
